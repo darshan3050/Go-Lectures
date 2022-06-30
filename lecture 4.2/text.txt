@@ -1,0 +1,18 @@
+inhertitance 
+
+
+
+
+
+create function of student named add contact 
+send contact in add contact
+
+
+//
+person structure multiple account
+account structure type current saving
+balance of account
+
+function deposit transfer widrawal abhay - bank - transfer
+method widrawal deposit transfer, overall balance in person structure
+account balance
